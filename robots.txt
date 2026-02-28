@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://outbound-karyawanpabrik.vercel.app/sitemap.xml
